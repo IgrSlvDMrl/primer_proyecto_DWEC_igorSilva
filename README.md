@@ -14,5 +14,5 @@ el tipo de operación, ambos numeros y el resultado y a continuación efectua un
 
 luego contamos con la función mostrarHistorial(), que es una de las opciones de calculadora(), y que como
 su nombre indica recorre el array y nos muestra su contenido, además en el caso de estar vacio nos salta un mensaje
-cabe destacar que contamos con una función adicional operaciónEscrita para traducir los numeros para cada operación
-a su operación designada, facilitando su lectura en el historial.
+cabe destacar que contamos con una función adicional operaciónEscrita() para traducir los numeros designados
+para cada operación a su forma escrita, facilitando su lectura en el historial.
